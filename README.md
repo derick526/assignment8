@@ -1,1 +1,1 @@
-# assignment8.github.io
+# A simple one page Bootstrap webpage that contains a navbar, header, features secion, and a footer.
